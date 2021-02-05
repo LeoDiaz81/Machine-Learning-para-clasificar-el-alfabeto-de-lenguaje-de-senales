@@ -1,4 +1,4 @@
-# Machine-Learning-para-clasificar-el-alfabeto-de-lenguaje-de-senales
+# Machine Learning para clasificar el alfabeto de lenguaje de señales
 
 En este código se trabajó con los datos de Lenguaje de Señas. 
 
